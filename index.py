@@ -23,9 +23,12 @@ print(type(1))
 
 # Casting
 a = int(2)
-b =float("6")
+b = float("6")
+b2 = float("4.989786")
+c = float('3.786')
+d = int(float("3.4"))
 
-print([a,b])
+print([a,b,b2,c,d])
 # Floats = These are decimal numbers 1.2, 3.6 etc
 print(type(1.64))
 # Boolean = These are data that can take the value of true or false
