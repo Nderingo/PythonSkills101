@@ -9,5 +9,6 @@ name="John"
 print('Dear Mrs Lyimo')
 print(name + ' is failing' + failed_subjects + ' subjects')
 print( name + ' will have to redo' + failed_subjects + ' subjects')
+name="Richard"
 print('But ' + name + ' is good in Math')
 
