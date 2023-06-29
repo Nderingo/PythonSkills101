@@ -20,6 +20,12 @@ print(type('hello'))
 
 # Integers = They are whole numbers 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
 print(type(1))
+
+# Casting
+a = int(2)
+b =float("6")
+
+print([a,b])
 # Floats = These are decimal numbers 1.2, 3.6 etc
 print(type(1.64))
 # Boolean = These are data that can take the value of true or false
