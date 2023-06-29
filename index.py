@@ -14,10 +14,19 @@ print('But ' + name + ' is good in Math')
 
 # Naming of variables in python should be in one word using underscore or using camel cases
 # strings = are asigned with either "" or ''
+print(type('hello'))
 
 # Data types
 
 # Integers = They are whole numbers 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+print(type(1))
 # Floats = These are decimal numbers 1.2, 3.6 etc
+print(type(1.64))
 # Boolean = These are data that can take the value of true or false
+print(type(True))
+
+
+
+
+
 
