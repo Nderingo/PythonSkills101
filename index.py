@@ -42,6 +42,15 @@ in_stock = True
 stock = 100
 print([freshVegetables,price,in_stock,stock])
 
+# Arithmetic operations
+a = 8
+b = 3
+print('Add :', a+b)
+print('Sub',a-b)
+print('Multiplication',a*b)
+print('Div (float)',a/b)
+print('Modulus',a%b)
+print('Division',a//b)
 
 
 
