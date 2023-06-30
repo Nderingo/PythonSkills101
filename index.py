@@ -34,6 +34,14 @@ print(type(1.64))
 # Boolean = These are data that can take the value of true or false
 print(type(True))
 
+# Data Types and Variables Exercise
+
+freshVegetables = "asparagus"
+price = 2.99
+in_stock = True
+stock = 100
+print([freshVegetables,price,in_stock,stock])
+
 
 
 
