@@ -60,6 +60,8 @@ print(message + message)
 print(message*5)
 print(message.upper()*2)
 print(message.lower())
+print(message.capitalize())
+print(message.title())
 
 
 
