@@ -51,6 +51,7 @@ print('Multiplication',a*b)
 print('Div (float)',a/b)
 print('Modulus',a%b)
 print('Division',a//b)
+print('Exp',a**b)
 
 
 
