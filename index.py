@@ -54,7 +54,7 @@ print('Division',a//b)
 print('Exp',a**b)
 
 # Strings-Basics Slicing
-message = 'Welcome to Python 101 strings'
+message = 'Welcome to Python 101 strings!'
 print(message,message)
 print(message + message)
 print(message*5)
@@ -62,6 +62,15 @@ print(message.upper()*2)
 print(message.lower())
 print(message.capitalize())
 print(message.title())
+print(len(message))
+print(message.count('e'))
+
+# Slicing Strings Getting part of the string s and returninfg them
+
+print(message[2])
+print(message[:8])
+print(message[-8])
+
 
 
 
