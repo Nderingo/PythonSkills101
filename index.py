@@ -71,6 +71,11 @@ print(message[2])
 print(message[:8])
 print(message[-8])
 
+# String Exercise
+msg = "Welcome to Python 101:Strings"
+msg1 = msg[18] + " " + msg[:8] + msg[24:28]+msg[7:11] +msg[8]+msg[12]+msg[2]+msg[1]+msg[-5]
+print(msg1.title())
+print(msg1[::-1].title())
 
 
 
