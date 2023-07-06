@@ -53,6 +53,16 @@ print('Modulus',a%b)
 print('Division',a//b)
 print('Exp',a**b)
 
+# Strings-Basics Slicing
+message = 'Welcome to Python 101 strings'
+print(message,message)
+print(message + message)
+print(message*5)
+print(message.upper()*2)
+print(message.lower())
+
+
+
 
 
 
