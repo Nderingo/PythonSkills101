@@ -77,6 +77,11 @@ msg1 = msg[18] + " " + msg[:8] + msg[24:28]+msg[7:11] +msg[8]+msg[12]+msg[2]+msg
 print(msg1.title())
 print(msg1[::-1].title())
 
+# Finding and replacing in Stringd
+msg = "Welcome to Python 101:Strings"
+print(msg.find('h'))
+print(msg.replace('Welcome to','Karibu kwenye'))
+
 
 
 
